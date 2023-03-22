@@ -19,4 +19,4 @@
   **8 Test videos Avg ASR** : 68.62% <br>
 
   # Privacy
-  The first two home-made datasets show faces, where the training set is mosaicked for privacy, which can have a slight effect on the effectiveness of the attack. All publicly available datasets should only be used for academic research, so if you need to display any results with faces, please be careful to use mosaics. If you do require a dataset without mosaics, please contact us and state the purpose. The person appearing in the dataset has the right to request that their photograph be removed from that dataset at any time.
+  The two home-made datasets show faces, where the training set is mosaicked for privacy, which can have a slight effect on the effectiveness of the attack. All publicly available datasets should only be used for academic research, so if you need to display any results with faces, please be careful to use mosaics. If you do require a dataset without mosaics, please contact us and state the purpose. The person appearing in the dataset has the right to request that their photograph be removed from that dataset at any time.
